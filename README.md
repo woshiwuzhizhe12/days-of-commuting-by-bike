@@ -4,4 +4,4 @@
 
 ## 文章
 
-- [第一篇](days-of-commuting-by-bike-1.md)
+- [第1篇](days-of-commuting-by-bike-1.md)
